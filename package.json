@@ -1,6 +1,6 @@
 {
   "name": "chainreaction",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "chainreaction game",
   "dependencies": {
     "websocket": "^1.0.23",
@@ -9,6 +9,6 @@
   "scripts": {
     "start": "node chserver.js"
   },
-  "author": "blesson thomas",
+  "author": "Karthikeyan VK",
   "license": "ISC"
 }
